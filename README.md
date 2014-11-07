@@ -8,7 +8,7 @@ https://github.com/lucidpixel/WPDevMate
 
 CORE-FILES VERSION: 1.05 (Download Core files from https://github.com/lucidpixel/WPDevMate)
 
-SERVER VERSION: 1.0.0.0 (Download WPDevMate WAMP Server from http://www.wpdevmate.com/download-wpdevmate/)
+SERVER VERSION: 1.0.0.0 (Download WPDevMate WAMP Server from http://www.wpdevmate.com)
 
 
 WHAT IS WPDEVMATE?
