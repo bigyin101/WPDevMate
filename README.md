@@ -1,12 +1,14 @@
 ![Alt text](http://www.wpdevmate.com/wp-content/themes/wpdevmate/images/wpdevmate-login-logo.png "WPDevMate")
 
-Copyright (C) WPDevMate - All Rights Reserved
+Copyright (C) WPDevMate - All Rights Reserved - 
 http://www.wpdevmate.com
+
 https://github.com/lucidpixel/WPDevMate
 
 
-CORE-FILES VERSION: 1.05
-SERVER VERSION: 	  1.0.0.0
+CORE-FILES VERSION: 1.05 (Download Core files from https://github.com/lucidpixel/WPDevMate)
+
+SERVER VERSION: 1.0.0.0 (Download WPDevMate WAMP Server from http://www.wpdevmate.com/download-wpdevmate/)
 
 
 WHAT IS WPDEVMATE?
