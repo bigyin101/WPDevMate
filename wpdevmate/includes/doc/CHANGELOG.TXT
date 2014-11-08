@@ -1,0 +1,49 @@
+Copyright (C) WPDevMate - All Rights Reserved
+http://www.wpdevmate.com
+https://github.com/lucidpixel/WPDevMate
+
+
+
+
+CHANGELOG
+-------------
+
+
+07/11/2014.
+* Released WPDevMate Server.
+* List WordPress version for each site (usefull for beta releases).
+* Removed support to import large websites from remote server - due to MAXPATHLEN limitations on Windows.
+When extracting a WordPress zip archive, some of the file paths (e.g. plugin paths) were just too long.
+Read more at: http://msdn.microsoft.com/en-us/library/windows/desktop/aa365247%28v=vs.85%29.aspx#maxpath
+* Cleanup Hosts File button turns red if it detects the wpdm backup hosts file in the windows hosts directory.
+(This helps you remember to restore the original hosts file).
+* Install WordPress button turns red to notify you if the WordPress folder is present.
+* List WordPress versions next to each website (useful for testing nightly versions).
+
+05/11/2014.
+* Added mySQL/Http port numbers to wp-config if not default.
+* When creating database, add default character set (utf8) and collation (utf8_general_ci).
+* Added support for sFTP.
+* Option to add DateTime stamp to archives when backing up websites.
+
+19/08/2014.
+* Fixed issue with adding hostnames that had ports other than default 80. 
+
+14/08/2014.
+* One click install function. Install WordPress in less that 20 seconds!
+
+07/07/2014.
+* Improved import and export functionality. 
+* Improved code organisation and structure.
+
+01/06/2014.
+* Ability to import remote website archives (like the ones from the Duplicator plugin). 
+Ensure that archives are in the format 'www.yourdomain.com_archive.zip' and contain a file called 'database.sql'.
+
+28/04/2014. 
+* Virtual hosts file integration now working. Ensure that you restart Apache.
+
+01/08/2014.
+* Initial release.
+
+
